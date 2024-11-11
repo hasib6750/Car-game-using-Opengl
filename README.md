@@ -17,7 +17,7 @@ This is a simple car-avoidance game built using Python and the `PyOpenGL` librar
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Car-game-using-Opengl.git
+   git clone https://github.com/hasib6750/Car-game-using-Opengl.git
    ```
 
 2. Navigate to the project directory:
