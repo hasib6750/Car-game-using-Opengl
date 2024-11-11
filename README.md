@@ -17,12 +17,12 @@ This is a simple car-avoidance game built using Python and the `PyOpenGL` librar
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/car-avoidance-game.git
+   git clone https://github.com/yourusername/Car-game-using-Opengl.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd car-avoidance-game
+   cd Car-game-using-Opengl
    ```
 
 3. Install the required dependencies:
