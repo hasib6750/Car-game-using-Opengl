@@ -34,7 +34,7 @@ This is a simple car-avoidance game built using Python and the `PyOpenGL` librar
 
 1. Run the game using:
    ```
-   python game.py
+   python Car_Game.py
    ```
 
 2. Use the 'A' key to move the car left and the 'D' key to move it right.
